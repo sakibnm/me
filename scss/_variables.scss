@@ -1,0 +1,26 @@
+// Import Project Color Variables
+@import 'variables/colors';
+
+// Override Color Variables in this file.
+@import 'variables-colors-overrides';
+
+// Import Project Variables
+@import 'variables/alerts';
+@import 'variables/page-header';
+@import 'variables/navbar';
+@import 'variables/spacing';
+@import 'variables/body';
+@import 'variables/error';
+@import 'variables/grid';
+@import 'variables/components';
+@import 'variables/buttons-forms';
+@import 'variables/navigation';
+@import 'variables/cards';
+@import 'variables/dropdowns';
+@import 'variables/code';
+@import 'variables/typography';
+@import 'variables/tables';
+@import 'variables/badges';
+
+// Override Start Bootstrap Variables in this file.
+@import 'variables-sb-ui-kit-pro-overrides';
