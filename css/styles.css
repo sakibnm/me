@@ -651,6 +651,7 @@ pre code {
 .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
   position: relative;
   width: 100%;
+  padding-top: 1rem;
   padding-right: 0.75rem;
   padding-left: 0.75rem;
 }
@@ -20328,7 +20329,7 @@ section {
 
 .page-header {
   position: relative;
-  padding-top: 2.5rem;
+  padding-top: 1rem;
   padding-bottom: 2.5rem;
 }
 .page-header .page-header-content .page-header-title {
@@ -21018,5 +21019,8 @@ section {
 }
 .propic{
   width: 15rem;
-  border-radius: 7.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
 }
