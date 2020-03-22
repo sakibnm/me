@@ -651,8 +651,8 @@ pre code {
 .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
   position: relative;
   width: 100%;
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
 }
 
 .col {
@@ -6331,6 +6331,7 @@ input[type=button].btn-block {
   -webkit-box-pack: justify;
           justify-content: space-between;
   padding: 0.5rem 1rem;
+  max-height: fit-content;
 }
 .navbar .container,
 .navbar .container-fluid,
@@ -6345,6 +6346,7 @@ input[type=button].btn-block {
           align-items: center;
   -webkit-box-pack: justify;
           justify-content: space-between;
+  max-height: fit-content;
 }
 .navbar-brand {
   display: inline-block;
@@ -6396,7 +6398,7 @@ input[type=button].btn-block {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: black;
+  background-color: lightgrey;
   border: 1px solid transparent;
   border-radius: 0.35rem;
 }
@@ -6758,7 +6760,7 @@ input[type=button].btn-block {
   -webkit-box-flex: 1;
           flex: 1 1 auto;
   min-height: 1px;
-  padding: 1.35rem;
+  padding: 0.5rem;
 }
 
 .card-title {
@@ -17463,6 +17465,7 @@ h3 {
 
   .container {
     min-width: 992px !important;
+    min-height: fit-content;
   }
 
   .navbar {
@@ -20325,8 +20328,8 @@ section {
 
 .page-header {
   position: relative;
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 .page-header .page-header-content .page-header-title {
   font-size: 2.5rem;
