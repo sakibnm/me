@@ -11673,7 +11673,7 @@ button.bg-danger-soft:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin-top: 0.5rem !important;
 }
 
 .mr-5,
@@ -11683,7 +11683,7 @@ button.bg-danger-soft:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .ml-5,
@@ -12057,7 +12057,7 @@ button.bg-danger-soft:focus {
 
 .pt-10,
 .py-10 {
-  padding-top: 6rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-10,
@@ -12067,7 +12067,7 @@ button.bg-danger-soft:focus {
 
 .pb-10,
 .py-10 {
-  padding-bottom: 6rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .pl-10,
@@ -20115,7 +20115,7 @@ i-feather svg {
           justify-content: center;
   -webkit-box-align: center;
           align-items: center;
-  border-radius: 25%;
+  border-radius: 50%;
   height: 2rem;
   width: 2rem;
   font-size: 1rem;
@@ -20329,8 +20329,8 @@ section {
 
 .page-header {
   position: relative;
-  padding-top: 1rem;
-  padding-bottom: 2.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 .page-header .page-header-content .page-header-title {
   font-size: 2.5rem;
@@ -21019,8 +21019,7 @@ section {
 }
 .propic{
   width: 15rem;
-  border-radius: 0.75rem;
-  box-shadow: 10px 10px 5px #ccc;
-  -moz-border-radius:25px;
-  -webkit-border-radius:25px;
+  /*border-radius: 0.75rem;*/
+  /*box-shadow: 10px 10px 5px #ccc;*/
+  -webkit-border-radius:5px;
 }
