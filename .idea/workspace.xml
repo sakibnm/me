@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c42654-cd1f-4e3c-9905-5dbe116b4240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/news.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/feather.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/awards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/awards.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +72,7 @@
       <updated>1584827214262</updated>
       <workItem from="1584827216166" duration="5268000" />
       <workItem from="1584839935697" duration="7772000" />
-      <workItem from="1584899332733" duration="19322000" />
+      <workItem from="1584899332733" duration="19882000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1584828690912</created>
@@ -98,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584929995503</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First draft ready, homepage done...&#10;Yet to be added:&#10;Teaching&#10;Publications">
+      <created>1584938520644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584938520644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,13 +104,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Formattings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formattings" />
+    <MESSAGE value="First draft ready, homepage done...&#10;Yet to be added:&#10;Teaching&#10;Publications" />
+    <option name="LAST_COMMIT_MESSAGE" value="First draft ready, homepage done...&#10;Yet to be added:&#10;Teaching&#10;Publications" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1584929994685">
+    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1584938520129">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584929994685" />
+    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584938520129" />
     <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1584938415376">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
@@ -134,10 +132,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="141" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584828101145" />
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1584929997596">
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1584938522475">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584929997596" />
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584938522475" />
     <state x="308" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584842720594">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
