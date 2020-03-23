@@ -1,0 +1,133 @@
+// * * * * * * * * * * * * *
+// * * Import variables  * *
+// * * * * * * * * * * * * *
+
+@import 'variables';
+
+// * * * * * * * * * * * * *
+// * * Import Bootstrap  * *
+// * * * * * * * * * * * * *
+
+@import 'bootstrap/scss/bootstrap.scss';
+
+// * * * * * * * * * * * * * * *
+// * * Import global styling * *
+// * * * * * * * * * * * * * * *
+
+@import 'global';
+
+// * * * * * * * * * * * *
+// * * Import layouts  * *
+// * * * * * * * * * * * *
+
+@import 'layout/default';
+
+// * * * * * * * * * * * * *
+// * * Import utilities  * *
+// * * * * * * * * * * * * *
+
+@import 'utilities/animation';
+@import 'utilities/background';
+@import 'utilities/border';
+@import 'utilities/dropdown';
+@import 'utilities/general';
+@import 'utilities/text';
+@import 'utilities/shadow';
+@import 'utilities/transform';
+@import 'utilities/zindex';
+@import 'utilities/images';
+@import 'utilities/lift';
+
+// * * * * * * * * * * * * * * * *
+// * * Import component styles * *
+// * * * * * * * * * * * * * * * *
+
+// -- Alerts
+@import 'components/alerts/icon';
+@import 'components/alerts/solid';
+
+@import 'components/avatars';
+
+// -- Buttons
+@import 'components/buttons/global';
+@import 'components/buttons/social';
+@import 'components/buttons/transparent';
+@import 'components/buttons/icon';
+@import 'components/buttons/sizing';
+@import 'components/buttons/marketing';
+
+// -- Cards
+@import 'components/cards/global';
+@import 'components/cards/advanced';
+@import 'components/cards/collapsable';
+@import 'components/cards/icon';
+@import 'components/cards/scrollable';
+@import 'components/cards/progress';
+@import 'components/cards/link';
+@import 'components/cards/portfolio';
+@import 'components/cards/flags';
+
+// -- Forms
+@import 'components/forms/checkboxes';
+@import 'components/forms/form-control';
+
+// -- Navigation
+@import 'components/navigation/navbar';
+@import 'components/navigation/navbar-marketing';
+@import 'components/navigation/topnav';
+@import 'components/navigation/nav-sticky';
+@import 'components/navigation/sidenav/sidenav';
+@import 'components/navigation/sidenav/sidenav-dark';
+@import 'components/navigation/sidenav/sidenav-light';
+
+// -- Dropdowns
+@import 'components/dropdowns/global';
+@import 'components/dropdowns/user';
+@import 'components/dropdowns/notifications';
+@import 'components/dropdowns/mega';
+
+// -- Icons
+@import 'components/icons';
+
+// -- Video
+@import 'components/video';
+
+// -- Media
+@import 'components/media';
+
+// -- Accordion
+@import 'components/accordion';
+
+// -- Badges
+@import 'components/badges';
+
+// -- Pagination
+@import 'components/pagination';
+
+// -- List Group
+@import 'components/list-group';
+
+// * * * * * * * * * * * * * * *
+// * * Import section styles * *
+// * * * * * * * * * * * * * * *
+
+@import 'sections/borders';
+@import 'sections/header';
+@import 'sections/footer';
+@import 'sections/device';
+@import 'sections/brands';
+@import 'sections/testimonials';
+@import 'sections/pricing';
+@import 'sections/blog';
+
+// * * * * * * * * * * * * * *
+// * * Import page styles  * *
+// * * * * * * * * * * * * * *
+
+// -- Error page effect
+@import 'pages/error';
+
+// * * * * * * * * * * * * * * *
+// * * Import custom styles  * *
+// * * * * * * * * * * * * * * *
+@import 'project-global';

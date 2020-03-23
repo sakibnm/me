@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^7.1.2",
     "deploy": "^1.0.3",
     "gh-pages": "^2.2.0",
+    "material": "^0.4.3",
+    "material-components-web": "^5.1.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
