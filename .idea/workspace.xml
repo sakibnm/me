@@ -2,237 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c42654-cd1f-4e3c-9905-5dbe116b4240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-BlackItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-BoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-ExtraBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-ExtraBoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-ExtraLight.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-ExtraLightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-LightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Medium.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-MediumItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-RegularItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-SemiBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-SemiBoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-Thin.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/Metropolis-ThinItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/metropolis/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/app-desktop-demo-screenshot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/app-store-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avataaars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avataaars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/dribbble.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/mailchimp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/brand-logos/product-hunt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/Macbook/macbook.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/Macbook/portrait_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/Macbook/portrait_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/Macbook/portrait_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/MacbookPro/MacbookPro.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/MacbookPro/portrait_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/iPad-Pro-Mockup.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/landscape_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/landscape_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/landscape_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/portrait_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/portrait_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPadPro/portrait_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPhoneX/landscape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPhoneX/landscape_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPhoneX/portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/device-mockups/iPhoneX/portrait_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/drawkit/color/drawkit-content-man-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/drawkit/color/drawkit-social-feed-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/drawkit/color/drawkit-user-mobile-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/google-play-badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/pattern-shapes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-basic-signup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-basic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-graphic-signup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-graphic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-inner-page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/header-nav-only.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-agency.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-app-desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-app-mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-classifieds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-directory.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-lead-capture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-multipurpose.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-portfolio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-press.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-real-estate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-rental.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/screenshots/landing-resume.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/video/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/feather.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/default.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/head/css.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/head/fonts.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/head/icons.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/head/meta.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/head/title.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/layouts/includes/scripts.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-basic-signup.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-basic.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-graphic-signup.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-graphic.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-inner-page.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/header-nav-only.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-agency.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-app-desktop.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-app-mobile.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-classifieds.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-directory.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-lead-capture.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-multipurpose.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-portfolio.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-press.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-real-estate.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-rental.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/landing-resume.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/footer.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/header.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/includes/border-options.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/includes/partials/border-bottom-angled.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/includes/partials/border-bottom-rounded.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/includes/partials/border-bottom-waves.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/navbar.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/mixins/section.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-basic.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-blog-archive.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-blog-overview.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-blog-post.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-careers-listing.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-careers-overview.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-company-about.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-company-contact.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-company-pricing.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-company-terms.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-help-center.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-help-knowledgebase.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-help-message-center.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-help-support-ticket.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-portfolio-case-study.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-portfolio-grid.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-portfolio-large-grid.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-portfolio-masonry.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pug/pages/page-portfolio-project.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_project-global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_variables-colors-overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_variables-sb-ui-kit-pro-overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_accordion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_avatars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/_video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/alerts/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/alerts/_solid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_marketing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_social.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/buttons/_transparent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_advanced.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_collapsable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_flags.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_portfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/cards/_scrollable.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/dropdowns/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/dropdowns/_mega.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/dropdowns/_notifications.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/dropdowns/_user.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/forms/_checkboxes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/forms/_form-control.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/_nav-sticky.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/_navbar-marketing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/_topnav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/sidenav/_sidenav-dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/sidenav/_sidenav-light.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/components/navigation/sidenav/_sidenav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/layout/_default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/pages/_error.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_brands.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_device.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_pricing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/sections/_testimonials.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_animation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_border.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_general.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_lift.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_transform.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/utilities/_zindex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_body.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_buttons-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_components.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_error.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_page-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scss/variables/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build-assets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build-pug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build-scss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/clean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/render-assets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/render-pug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/render-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/render-scss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/sb-watch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start-debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/awards.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/news.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/feather.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/awards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/awards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -263,15 +43,16 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/img" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/public/assets/img" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/assets/img" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -301,7 +82,7 @@
       <updated>1584827214262</updated>
       <workItem from="1584827216166" duration="5268000" />
       <workItem from="1584839935697" duration="7772000" />
-      <workItem from="1584899332733" duration="12748000" />
+      <workItem from="1584899332733" duration="19322000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1584828690912</created>
@@ -310,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584828690912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Formattings">
+      <created>1584929995503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584929995503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,37 +106,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Formattings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formattings" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1584828690298">
+    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1584929994685">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584828690298" />
-    <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1584929554770">
+    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584929994685" />
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1584938415376">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1584929554770" />
-    <state width="1259" height="165" key="GridCell.Tab.0.center" timestamp="1584929554769">
+    <state width="1259" height="165" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1584938415376" />
+    <state width="1259" height="165" key="GridCell.Tab.0.center" timestamp="1584938415375">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1259" height="165" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1584929554769" />
-    <state width="1259" height="165" key="GridCell.Tab.0.left" timestamp="1584929554769">
+    <state width="1259" height="165" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1584938415375" />
+    <state width="1259" height="165" key="GridCell.Tab.0.left" timestamp="1584938415374">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1259" height="165" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1584929554769" />
-    <state width="1259" height="165" key="GridCell.Tab.0.right" timestamp="1584929554770">
+    <state width="1259" height="165" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1584938415374" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right" timestamp="1584938415375">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1259" height="165" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1584929554770" />
+    <state width="1259" height="165" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1584938415375" />
     <state x="141" y="29" key="SettingsEditor" timestamp="1584828101145">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="141" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584828101145" />
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1584828724122">
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1584929997596">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584828724122" />
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584929997596" />
     <state x="308" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584842720594">
       <screen x="0" y="23" width="1280" height="735" />
     </state>

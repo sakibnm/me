@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import FeatherIcon from 'feather-icons-react';
 export default class Home extends Component {
     render() {
         return (
@@ -12,13 +12,13 @@ export default class Home extends Component {
                                     <div className="col justify-content-center">
                                         <div className="card">
                                             <div className="card-body">
-                                                <div><i data-feather="mail"/>
-                                                    <h2>Contact me</h2>
-                                                    <i className="icon-stack svg text-white mb-3"
-                                                         data-feather="assets/img/email.svg"/>
+                                                <div>
+                                                    <h6>Contact me</h6>
                                                 </div>
-                                                <div className="small"><a href="mailto:mmiazi@uncc.edu"
-                                                                          target="blank">mmiazi@uncc.edu</a></div>
+                                                <div className="small">
+                                                    <div className="icon-stack"><FeatherIcon icon="mail" size="48"/></div>
+                                                    <a href="mailto:mmiazi@uncc.edu" target="blank">mmiazi@uncc.edu</a>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

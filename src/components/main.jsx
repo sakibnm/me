@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import FeatherIcon from 'feather-icons-react';
 
 export default class Home extends Component {
     render() {

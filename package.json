@@ -8,6 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "deploy": "^1.0.3",
+    "feather-icons-react": "^0.4.1",
     "gh-pages": "^2.2.0",
     "material": "^0.4.3",
     "material-components-web": "^5.1.0",

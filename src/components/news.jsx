@@ -10,23 +10,23 @@ export default class Home extends Component {
                     {/*    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.54 17.34" preserveAspectRatio="none" fill="currentColor"><path d="M144.54,17.34H0V0H144.54ZM0,0S32.36,17.34,72.27,17.34,144.54,0,144.54,0" /></svg>*/}
                     {/*</div>*/}
                     <hr className="my-5"/>
-                    <div className="float-left" ><FeatherIcon className="icon-stack-heading" icon="award" size={96}></FeatherIcon></div>
-                    <div className="mb-4 text-headline" style={{fontWeight: "bold"}}><font size="5">Honors and Awards</font></div>
+                    <div className="float-left" ><FeatherIcon className="icon-stack-heading" icon="globe" size={96}></FeatherIcon></div>
+                    <div className="mb-4 text-headline" style={{fontWeight: "bold"}}><font size="5">News and Updates</font></div>
 
                     <div className="card">
                         <div className="card-body">
                             <div className="float-left"><FeatherIcon className="icon-stack-listing" icon="chevrons-right"/></div>
-                            <div style={{fontWeight: "bold"}}>&emsp;2018: MUM 2018 Best Paper Honorable Mention Award.</div>
+                            <div style={{fontWeight: "bold"}}>&emsp;October 26, 2019: Dissertation Proposal Defence.</div>
                             <div className="float-left icon-stack-listing"></div>
-                            <p><font size="2">&emsp;Mobile Users as Advertisers: User Perceptions of Product Sensitivity, Exposure, and Public Influence.</font></p>
+                            <p><font size="2">&emsp;Exploring the Perceptions of a Users-as-Beacons System by Developing and Deploying a Real-Life Prototype.</font></p>
                         </div>
                     </div>
                     <div className="card">
                         <div className="card-body">
                             <div className="float-left"><FeatherIcon className="icon-stack-listing" icon="chevrons-right"/></div>
-                            <div style={{fontWeight: "bold"}}>&emsp;2014: ICT Fellowship.</div>
+                            <div style={{fontWeight: "bold"}}>&emsp;August 19, 2019: Presented paper in IEEE COMPSAC.</div>
                             <div className="float-left icon-stack-listing"></div>
-                            <p><font size="2">&emsp;Ministry of Posts, Telecommunications and Information Technology, Government of the People’s Republic of Bangladesh.</font></p>
+                            <p><font size="2">&emsp;Privacy Is The Best Policy: A Framework for BLE Beacon Privacy Management.</font></p>
                         </div>
                     </div>
                 </section>

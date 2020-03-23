@@ -11673,7 +11673,7 @@ button.bg-danger-soft:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin-top: 0.5rem !important;
 }
 
 .mr-5,
@@ -11683,7 +11683,7 @@ button.bg-danger-soft:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .ml-5,
@@ -12057,7 +12057,7 @@ button.bg-danger-soft:focus {
 
 .pt-10,
 .py-10 {
-  padding-top: 6rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-10,
@@ -12067,7 +12067,7 @@ button.bg-danger-soft:focus {
 
 .pb-10,
 .py-10 {
-  padding-bottom: 6rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .pl-10,
@@ -20120,6 +20120,27 @@ i-feather svg {
   width: 2rem;
   font-size: 1rem;
   background-color: #eff3f9;
+}
+.icon-stack-social {
+  margin-top: 0.25rem;
+  height: 1.35rem;
+  width: 1.35rem;
+  font-size: 1.5rem;
+  background-color: transparent;
+}
+.icon-stack-listing {
+  margin-top: 0.1rem;
+  height: 1.35rem;
+  width: 1.35rem;
+  font-size: 1.5rem;
+  background-color: transparent;
+}
+.icon-stack-heading {
+  margin-top: 0.1rem;
+  height: 2.2rem;
+  width: 2.2rem;
+  font-size: 1.5rem;
+  background-color: transparent;
 }
 .icon-stack svg {
   height: 1rem;
