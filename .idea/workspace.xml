@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c42654-cd1f-4e3c-9905-5dbe116b4240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/img/android.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/ios.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/teaching/Algorithms.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/teaching/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/teaching/database.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/teaching/graphics.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/publications.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/teaching.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/news.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/news.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +75,7 @@
       <updated>1584827214262</updated>
       <workItem from="1584827216166" duration="5268000" />
       <workItem from="1584839935697" duration="7772000" />
-      <workItem from="1584899332733" duration="35488000" />
+      <workItem from="1584899332733" duration="35756000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1584828690912</created>
@@ -125,24 +112,49 @@
       <option name="project" value="LOCAL" />
       <updated>1584939534319</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final draft.... RC 01">
+      <created>1585013173149</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585013173149</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final draft.... RC 01">
+      <created>1585013315168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585013315168</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final draft.... RC 01">
+      <created>1585013326167</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585013326167</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial" />
     <MESSAGE value="Formattings" />
     <MESSAGE value="First draft ready, homepage done...&#10;Yet to be added:&#10;Teaching&#10;Publications" />
-    <option name="LAST_COMMIT_MESSAGE" value="First draft ready, homepage done...&#10;Yet to be added:&#10;Teaching&#10;Publications" />
+    <MESSAGE value="Final draft.... RC 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final draft.... RC 01" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1585013314709">
+    <state x="220" y="23" key="CommitChangelistDialog2" timestamp="1585013325753">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1585013314709" />
+    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1585013325753" />
     <state width="1259" height="165" key="GridCell.Tab.0.bottom" timestamp="1585013214290">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
@@ -163,10 +175,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="141" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584828101145" />
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1585013186929">
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1585013327667">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1585013186929" />
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1585013327667" />
     <state x="308" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584842720594">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
