@@ -1,6 +1,29 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://sakibnm.github.io/me",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "deploy": "^1.0.3",
+    "feather-icons-react": "^0.4.1",
+    "gh-pages": "^2.2.0",
+    "material": "^0.4.3",
+    "material-components-web": "^5.1.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
+  },
   "icons": [
     {
       "src": "favicon.ico",
