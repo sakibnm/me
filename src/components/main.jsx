@@ -6,23 +6,31 @@ export default class Home extends Component {
         return (
         <div id="layoutDefault_content">
                 <main>
-                    <nav className="navbar navbar-marketing navbar-expand-lg bg-dark navbar-light">
+                    <nav className="navbar navbar-marketing navbar-expand-lg fixed-top bg-dark navbar-light">
                         <div className="container">
                             <a className="navbar-brand text-gray-100" href="index.html">Hi I'm Sakib!</a><button className="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation"><i className="fa fa-bars"></i></button>
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul className="navbar-nav ml-auto mr-lg-5">
-                                    <li className="nav-item"><a className="nav-link text-gray-200" href="index.html" >About</a></li>
                                     <li className="nav-item">
-                                        <a className="nav-link text-gray-200" href="#" role="button">Teaching</a>
+                                        <a className="nav-link text-gray-200" href="#layoutDefault_content" >About</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link text-gray-200" href="#" role="button">Publications</a>
+                                        <a className="nav-link text-gray-200" href="#updates" role="button">Updates</a>
+                                    </li>
+                                    <li className="nav-item">
+                                        <a className="nav-link text-gray-200" href="#layoutDefault_teaching" role="button">Teaching</a>
+                                    </li>
+                                    <li className="nav-item">
+                                        <a className="nav-link text-gray-200" href="#layoutDefault_publications" role="button">Publications</a>
                                     </li>
                                 </ul>
                                 <a className="mdc-button--raised btn-primary btn rounded-pill px-4 ml-lg-4" href="https://drive.google.com/open?id=1S-OIn2e5hnZjPorwJu9NDUN15SVXvQfE" target="_blank">My CV<i className="fas fa-arrow-right ml-1" /></a>
                             </div>
                         </div>
                     </nav>
+                    <div className="container-vspace-8">
+
+                    </div>
                     <header className="page-header bg-white20">
                         <div className="page-header-content">
                             <div className="container mdc-elevation--z10">

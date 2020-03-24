@@ -3,7 +3,10 @@ import FeatherIcon from 'feather-icons-react';
 export default class Home extends Component {
     render(){
         return (
-            <div id="layoutDefault_awards" className="container">
+            <div className="container">
+                <div id="updates" className="container-vspace-6">
+
+                </div>
                 <section className="bg-white py-10">
                     {/* Honors and Awards..   TOBE ADDED */}
                     {/*<div className="svg-border-rounded text-light">*/}
