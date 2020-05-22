@@ -12,7 +12,14 @@ export default class Home extends Component {
                     <hr className="my-5"/>
                     <div className="float-left" ><FeatherIcon className="icon-stack-heading" icon="award" size={96}></FeatherIcon></div>
                     <div className="mb-4 text-headline" style={{fontWeight: "bold"}}><font size="5">Honors and Awards</font></div>
-
+                    <div className="card">
+                        <div className="card-body">
+                            <div className="float-left"><FeatherIcon className="icon-stack-listing" icon="chevrons-right"/></div>
+                            <div style={{fontWeight: "bold"}}>&emsp;2020: Outstanding Teaching Assistant Award.</div>
+                            <div className="float-left icon-stack-listing"></div>
+                            <p><font size="2">&emsp;Awarded by the College of Computing and Informatics, UNC Charlotte.</font></p>
+                        </div>
+                    </div>
                     <div className="card">
                         <div className="card-body">
                             <div className="float-left"><FeatherIcon className="icon-stack-listing" icon="chevrons-right"/></div>
