@@ -29,6 +29,9 @@ export default class Home extends Component {
                             </div>
                         </div>
                     </div>
+                    <div className="container-vspace-8">
+
+                    </div>
                     <div><h4>@UNC Charlotte</h4></div>
                     <div className="row z-1">
                         <div className="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay={100}>
