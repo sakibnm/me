@@ -13,6 +13,22 @@ export default class Home extends Component {
                 <div className="float-left" ><FeatherIcon className="icon-stack-heading" icon="book-open" size={96}></FeatherIcon></div>
                 <div className="mb-4 text-headline" style={{fontWeight: "bold"}}><font size="5">Teaching</font></div>
                 <div className="container">
+                    <div><h4>@Davidson College</h4></div>
+                    <div className="row z-1">
+                        <div className="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay={100}>
+                            <div className="card pricing h-100">
+                                <div className="card-body p-3">
+                                    <img className="icon-list-social-link float-left teachpic" src="assets/img/teaching/data_structures.svg"></img>
+                                    <div className="card-title">Data Structures</div>
+                                    <div>
+                                        <ul>
+                                            <li>Teaching CSC221 for Fall 2020.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div><h4>@UNC Charlotte</h4></div>
                     <div className="row z-1">
                         <div className="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay={100}>

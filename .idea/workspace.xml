@@ -34,7 +34,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27c42654-cd1f-4e3c-9905-5dbe116b4240" name="Default Changelist" comment="Initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/teaching.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/teaching.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +76,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/assets/img" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/public/assets/img/teaching" />
       <recent name="$PROJECT_DIR$/public/assets/img" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/assets/img/teaching" />
+      <recent name="$PROJECT_DIR$/public/assets/img" />
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -135,7 +136,7 @@
       <workItem from="1590120449073" duration="1171000" />
       <workItem from="1593140861228" duration="1236000" />
       <workItem from="1602906689811" duration="48000" />
-      <workItem from="1602906764872" duration="1281000" />
+      <workItem from="1602906764872" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1584828690912</created>
@@ -291,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602907841924</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Initial">
+      <created>1602908375676</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602908375676</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,25 +341,29 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="408" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.834@0.23.1440.834" timestamp="1602906716296" />
-    <state width="886" height="203" key="GridCell.Tab.0.bottom" timestamp="1602907688749">
+    <state width="885" height="203" key="GridCell.Tab.0.bottom" timestamp="1602908392055">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="886" height="203" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1602907688749" />
-    <state width="886" height="203" key="GridCell.Tab.0.center" timestamp="1602907688748">
+    <state width="885" height="203" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1602908392055" />
+    <state width="885" height="203" key="GridCell.Tab.0.center" timestamp="1602908392054">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="886" height="203" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1602907688748" />
-    <state width="886" height="203" key="GridCell.Tab.0.left" timestamp="1602907688747">
+    <state width="885" height="203" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1602908392054" />
+    <state width="885" height="203" key="GridCell.Tab.0.left" timestamp="1602908392054">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="886" height="203" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1602907688747" />
-    <state width="886" height="203" key="GridCell.Tab.0.right" timestamp="1602907688748">
+    <state width="885" height="203" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1602908392054" />
+    <state width="885" height="203" key="GridCell.Tab.0.right" timestamp="1602908392055">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="886" height="203" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1602907688748" />
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1602907832780">
+    <state width="885" height="203" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1602908392055" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1602908378695">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1602907832780" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1602908378695" />
+    <state x="518" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602908368621">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="518" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.834@0.23.1440.834" timestamp="1602908368621" />
   </component>
 </project>
