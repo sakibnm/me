@@ -40,8 +40,8 @@ export default class Home extends Component {
                                     </div>
                                     <div className="col-lg-8 text-left">
                                         <h1 className="page-header-title">Sakib Miazi</h1>
-                                        <p className="page-header-text">Ph.D. Candidate @ <a className="navbar-brand" href="https://www.uncc.edu" target="blank">UNC Charlotte</a></p>
-                                        <p className="page-header-content justify-content-center">I am a Ph.D. candidate and usable privacy and security researcher at UNC Charlotte. My research is focused on designing privacy-preserving localized review systems utilizing Bluetooth Low Energy Beacons technology. I use mixed-methods to understand how users take their privacy decisions in the pervasive setting to design and develop privacy-preserving guidelines for BLE-based review systems.</p>
+                                        <p className="page-header-text">Visiting Assistant Professor @ <a className="navbar-brand" href="https://www.davidson.edu/math" target="blank">Davidson College</a></p>
+                                        <p className="page-header-content justify-content-center">I am a Visiting Assistant Professor at Davidson College and a usable privacy and security researcher. My research is focused on evaluating and developing privacy-preserving tools and frameworks for ubiquitous technologies. I use mixed-methods to understand how users take their privacy decisions in the pervasive setting to design and create privacy-preserving frameworks. I am excited to supervise students in their research on privacy and ubiquitous computing.</p>
                                     </div>
                                 </div>
                             </div>
