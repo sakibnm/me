@@ -18,7 +18,7 @@ export default class Home extends Component {
                         <div className="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay={100}>
                             <div className="card pricing h-100">
                                 <div className="card-body p-3">
-                                    <img className="icon-list-social-link float-left teachpic" src="assets/img/teaching/data_structures.svg"></img>
+                                    <img className="icon-list-social-link float-left teachpic" src="assets/img/teaching/data_structures.png"></img>
                                     <div className="card-title">Data Structures</div>
                                     <div>
                                         <ul>
