@@ -24,14 +24,15 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,6 +41,7 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,6 +60,15 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -65,10 +76,16 @@
         <script value="start" />
       </scripts>
       <node-interpreter value="project" />
+      <package-manager value="npm" />
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -85,6 +102,8 @@
       <workItem from="1585083452957" duration="7000" />
       <workItem from="1590120449073" duration="1171000" />
       <workItem from="1593140861228" duration="1236000" />
+      <workItem from="1602906689811" duration="48000" />
+      <workItem from="1602906764872" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1584828690912</created>
@@ -223,7 +242,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -238,52 +257,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585014330481">
-      <screen x="0" y="23" width="1280" height="735" />
+    <state x="320" y="88" key="#Plugins" timestamp="1602906785961">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="363" y="190" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.735@0.23.1280.735" timestamp="1585014330481" />
-    <state x="308" y="23" key="CommitChangelistDialog2" timestamp="1593141553974">
-      <screen x="0" y="23" width="1792" height="1055" />
+    <state x="320" y="88" key="#Plugins/0.23.1440.834@0.23.1440.834" timestamp="1602906785961" />
+    <state x="184" y="102" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602906927700">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="220" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1590121210480" />
-    <state x="308" y="23" key="CommitChangelistDialog2/0.23.1792.1055@0.23.1792.1055" timestamp="1593141553974" />
-    <state width="1771" height="269" key="GridCell.Tab.0.bottom" timestamp="1593145604844">
-      <screen x="0" y="23" width="1792" height="1055" />
+    <state x="184" y="102" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1602906927700" />
+    <state x="408" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602906716296">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1259" height="169" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1590180975606" />
-    <state width="1771" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1055@0.23.1792.1055" timestamp="1593145604844" />
-    <state width="1771" height="269" key="GridCell.Tab.0.center" timestamp="1593145604844">
-      <screen x="0" y="23" width="1792" height="1055" />
+    <state x="408" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.834@0.23.1440.834" timestamp="1602906716296" />
+    <state width="888" height="203" key="GridCell.Tab.0.bottom" timestamp="1602906952645">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1259" height="169" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1590180975605" />
-    <state width="1771" height="269" key="GridCell.Tab.0.center/0.23.1792.1055@0.23.1792.1055" timestamp="1593145604844" />
-    <state width="1771" height="269" key="GridCell.Tab.0.left" timestamp="1593145604844">
-      <screen x="0" y="23" width="1792" height="1055" />
+    <state width="888" height="203" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1602906952645" />
+    <state width="888" height="203" key="GridCell.Tab.0.center" timestamp="1602906952644">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1259" height="169" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1590180975604" />
-    <state width="1771" height="269" key="GridCell.Tab.0.left/0.23.1792.1055@0.23.1792.1055" timestamp="1593145604844" />
-    <state width="1771" height="269" key="GridCell.Tab.0.right" timestamp="1593145604844">
-      <screen x="0" y="23" width="1792" height="1055" />
+    <state width="888" height="203" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1602906952644" />
+    <state width="888" height="203" key="GridCell.Tab.0.left" timestamp="1602906952644">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1259" height="169" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1590180975605" />
-    <state width="1771" height="269" key="GridCell.Tab.0.right/0.23.1792.1055@0.23.1792.1055" timestamp="1593145604844" />
-    <state x="141" y="29" key="SettingsEditor" timestamp="1584828101145">
-      <screen x="0" y="23" width="1280" height="735" />
+    <state width="888" height="203" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1602906952644" />
+    <state width="888" height="203" key="GridCell.Tab.0.right" timestamp="1602906952645">
+      <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="141" y="29" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584828101145" />
-    <state x="336" y="151" key="Vcs.Push.Dialog.v2" timestamp="1593141559172">
-      <screen x="0" y="23" width="1792" height="1055" />
-    </state>
-    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1590121212781" />
-    <state x="336" y="151" key="Vcs.Push.Dialog.v2/0.23.1792.1055@0.23.1792.1055" timestamp="1593141559172" />
-    <state x="308" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584842720594">
-      <screen x="0" y="23" width="1280" height="735" />
-    </state>
-    <state x="308" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.735@0.23.1280.735" timestamp="1584842720594" />
-    <state x="591" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593140879646">
-      <screen x="0" y="23" width="1792" height="1055" />
-    </state>
-    <state x="422" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.735@0.23.1280.735" timestamp="1585013447504" />
-    <state x="591" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1055@0.23.1792.1055" timestamp="1593140879646" />
+    <state width="888" height="203" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1602906952645" />
   </component>
 </project>
